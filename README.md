@@ -19,3 +19,13 @@ No. | Title | Category | Solution | Programming |Difficulty|
 0728 | [Self Dividing Numbers](0728.Self-dividing-numbers/README.md) | %, /, append | [Self-dividing-numbers](0728.Self-dividing-numbers/Self-dividing-numbers.go)| go | Easy |
 0771 | [Jewels and Stones](0771.Jewels-and-stones/README.md) | strings.Count | [Jewels-and-stones](0771.Jewels-and-stones/Jewels-and-stones.go)| go | Easy |
 0804 | [Unique Morse Code Words](0804.Unique-morse-code-words/README.md) | map | [Unique-morse-code-words](0804.Unique-morse-code-words/Unique-morse-code-words.go)| go | Easy |
+0832 | [Flipping an Image](0832.Flipping-an-image/README.md) | [][]int, append | [Unique-morse-code-words](0832.Flipping-an-image/Flipping-an-image.go)| go | Easy |
+0897 | [Increasing Order Search Tree](0897.Increasing-order-search-tree/README.md) | binary search tree, recursive | [Increasing-order-search-tree](0897.Increasing-order-search-tree/Increasing-order-search-tree.go)| go | Easy |
+0905 | [Sort Array by Parity](0905.Sort-array-by-parity/README.md) | %, append | [Sort-array-by-parity](0905.Sort-array-by-parity/Sort-array-by-parity.go)| go | Easy |
+0912 | [Sort an Array](0912.Sort-an-array/README.md) | quickSort | [Sort-an-array](0912.Sort-an-array/Sort-an-array.go)| go | Easy |
+0938 | [Range Sum of BST](0938.Range-sum-of-BST/README.md) | binary search tree, recursive | [Range-sum-of-BST](0938.Range-sum-of-BST/Range-sum-of-BST.go)| go | Easy |
+0961 | [N Repeated Element in Size 2N Array](0961.N-Repeated-element-in-size-2N-array/README.md) | map | [N-Repeated-element-in-size-2N-array](0961.N-Repeated-element-in-size-2N-array/N-Repeated-element-in-size-2N-array.go)| go | Easy |
+0977 | [Squares of a Sorted Array](0977.Squares-of-a-sorted-array/README.md) | sorts.Ints | [Squares-of-a-sorted-array](0977.Squares-of-a-sorted-array/Squares-of-a-sorted-array.go)| go | Easy |
+1021 | [Remove Outermost Parentheses](1021.Remove-outermost-parentheses/README.md) | bytes.buffer, writeString, string() | [Remove-outermost-parentheses](1021.Remove-outermost-parentheses/Remove-outermost-parentheses.go)| go | Easy |
+1221 | [Split a String in Balanced Strings](1221.Split-a-string-in-balanced-strings/README.md) | string() | [Split-a-string-in-balanced-strings](1221.Split-a-string-in-balanced-strings/Split-a-string-in-balanced-strings.go)| go | Easy |
+1266 | [Minimum Time Visiting All Points](1266.Minimum-time-visiting-all-points/README.md) | max, abs, inner function | [Minimum-time-visiting-all-points](1266.Minimum-time-visiting-all-points/Minimum-time-visiting-all-points.go)| go | Easy |
