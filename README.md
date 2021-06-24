@@ -47,4 +47,15 @@ No. | Title | Category | Solution | Programming |Difficulty|
 1389 | [Create Target Array in the Given Order](1389.Create-target-array-in-the-given-order/README.md) | copy() | [Create-target-array-in-the-given-order](1389.Create-target-array-in-the-given-order/Create-target-array-in-the-given-order.go)| go| Easy|
 1431 | [Kids With the Greatest Number of Candies](1431.Kids-with-the-greatest-number-of-candies/README.md) | []bool | [Kids-with-the-greatest-number-of-candies](1431.Kids-with-the-greatest-number-of-candies/Kids-with-the-greatest-number-of-candies.go)| go| Easy|
 1436 | [Destination City](1436.Destination-city/README.md) | map | [Destination-city](1436.Destination-city/Destination-city.go)| go| Easy|
+1450 | [Number of Students Doing Homework at a Given Time](1450.Number-of-students-doing-homework-at-a-given-time/README.md) | []int | [Number-of-students-doing-homework-at-a-given-time](1450.Number-of-students-doing-homework-at-a-given-time/Number-of-students-doing-homework-at-a-given-time.go)| go| Easy|
+1464 | [Maximum Product of Two Elements in an Array](1464.Maximum-product-of-two-elements-in-an-array/README.md) | max, sort.Ints() | [Maximum-product-of-two-elements-in-an-array](1464.Maximum-product-of-two-elements-in-an-array/Maximum-product-of-two-elements-in-an-array.go)| go| Easy|
+1470 | [Shuffle the Array](1470.Shuffle-the-array/README.md) | append | [Shuffle-the-array](1470.Shuffle-the-array/Shuffle-the-array.go)| go| Easy|
+1475 | [Final Prices with a Special Discount in a Shop](1475.Final-prices-with-a-special-discount-in-a-shop/README.md) | two for loops | [Final-prices-with-a-special-discount-in-a-shop](1475.Final-prices-with-a-special-discount-in-a-shop/Final-prices-with-a-special-discount-in-a-shop.go)| go| Easy|
+1480 | [Running Sum of 1d Array](1480.Running-sum-of-1d-array/README.md) | += | [Running-sum-of-1d-array](1480.Running-sum-of-1d-array/Running-sum-of-1d-array.go)| go| Easy|
+1486 | [XOR Operation in an Array](1486.XOR-operation-in-an-array/README.md) | ^ | [XOR-operation-in-an-array](1486.XOR-operation-in-an-array/XOR-operation-in-an-array.go)| go| Easy|
+1512 | [Number of Good Pairs](1512.Number-of-good-pairs/README.md) | two for loops | [Number-of-good-pairs](1512.Number-of-good-pairs/Number-of-good-pairs.go)| go| Easy|
+1528 | [Shuffle String](1528.Shuffle-string/README.md) | []byte | [Shuffle-string](1528.Shuffle-string/Shuffle-string.go)| go| Easy|
+1534 | [Count Good Triplets](1534.Count-good-triplets/README.md) | three for loops, abs() | [Count-good-triplets](1534.Count-good-triplets/Count-good-triplets.go)| go| Easy|
+1572 | [Matrix Diagonal Sum](1572.Matrix-diagonal-sum/README.md) | +=, -=, / | [Matrix-diagonal-sum](1572.Matrix-diagonal-sum/Matrix-diagonal-sum.go)| go| Easy|
+
 
