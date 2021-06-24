@@ -21,6 +21,6 @@ func generateTheString(n int) string {
 		return string(result)
 	}
 
-	result[ n - 1] = 'b'
+	result[n - 1] = 'b'
 	return string(result)
 }
