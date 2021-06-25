@@ -10,6 +10,7 @@ No. | Title | Category | Solution | Programming |Difficulty|
 0147 | [Insertion Sort List](0147.Insertion-sort-list/README.md) | linked list | [Insertion-sort-list](0147.Insertion-sort-list/Insertion-sort-list.go)| go | Easy |
 0257 | [Binary Tree Paths](0257.Binary-tree-paths/README.md) | binary tree | [Binary-tree-paths](0257.Binary-tree-paths/Binary-tree-paths.go)| go | Easy |
 0344 | [Reverse String](0344.Reverse-string/README.md) | []byte | [Reverse-string](0344.Reverse-string/Reverse-string.go)| go | Easy |
+0461 | [Hamming Distance](0461.Hamming-distance/README.md) | ^, &, >>= , /=, % | [Hamming-distance](0461.Hamming-distance/Hamming-distance.go) | go | Easy |
 0509 | [Fibonacci Number](0509.Fibonacci-number/README.md) | fibonacci | [Fibonacci-number](0509.Fibonacci-number/Fibonacci-number.go)| go | Easy |
 0561 | [Array Partition I](0561.Array-partition-I/README.md) | sort.Ints() | [Array-partition-I](0561.Array-partition-I/Array-partition-I.go)| go | Easy |
 0589 | [N ary Tree Preorder Traversal](0589.N-ary-tree-preorder-traversal/README.md) | tree | [N-ary-tree-preorder-traversal](0589.N-ary-tree-preorder-traversal/N-ary-tree-preorder-traversal.go)| go | Easy |
