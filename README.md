@@ -57,5 +57,6 @@ No. | Title | Category | Solution | Programming |Difficulty|
 1528 | [Shuffle String](1528.Shuffle-string/README.md) | []byte | [Shuffle-string](1528.Shuffle-string/Shuffle-string.go)| go| Easy|
 1534 | [Count Good Triplets](1534.Count-good-triplets/README.md) | three for loops, abs() | [Count-good-triplets](1534.Count-good-triplets/Count-good-triplets.go)| go| Easy|
 1572 | [Matrix Diagonal Sum](1572.Matrix-diagonal-sum/README.md) | +=, -=, / | [Matrix-diagonal-sum](1572.Matrix-diagonal-sum/Matrix-diagonal-sum.go)| go| Easy|
+1768 | [Merge Strings Alternately](1768.Merge-strings-alternately/README.md) | append, []byte... | [Merge-strings-alternately](1768.Merge-strings-alternately/Merge-strings-alternately.go)| go| Easy|
 
 
