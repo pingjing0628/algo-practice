@@ -75,5 +75,13 @@ No. | Title | Category | Solution | Programming |Difficulty|
 1732 | [Find the Highest Altitude](1732.Find-the-highest-altitude/README.md) | max, compare | [Find-the-highest-altitude](1732.Find-the-highest-altitude/Find-the-highest-altitude.go)| go| Easy|
 1748 | [Sum of Unique Elements](1748.Sum-of-unique-elements/README.md) | +=, temp | [Sum-of-unique-elements](1748.Sum-of-unique-elements/Sum-of-unique-elements.go)| go| Easy|
 1768 | [Merge Strings Alternately](1768.Merge-strings-alternately/README.md) | append, []byte... | [Merge-strings-alternately](1768.Merge-strings-alternately/Merge-strings-alternately.go)| go| Easy|
+1773 | [Count Items Matching a Rule](1773.Count-items-matching-a-rule/README.md) | map | [Count-items-matching-a-rule](1773.Count-items-matching-a-rule/Count-items-matching-a-rule.go)| go| Easy|
+1812 | [Determine Color of a Chessboard Square](1812.Determine-color-of-a-chessboard-square/README.md) | map, strconv.Atoi, %, !  | [Determine-color-of-a-chessboard-square](1812.Determine-color-of-a-chessboard-square/Determine-color-of-a-chessboard-square.go)| go| Easy|
+1816 | [Truncate Sentence](1816.Truncate-sentence/README.md) | strings.Spilt(), strings.Join(), []byte{}, append, string() | [Truncate-sentence](1816.Truncate-sentence/Truncate-sentence.go)| go| Easy|
+1827 | [Minimum Operations to Make the Array Increasing](1827.Minimum-operations-to-make-the-array-increasing/README.md) | += | [Minimum-operations-to-make-the-array-increasing](1827.Minimum-operations-to-make-the-array-increasing/Minimum-operations-to-make-the-array-increasing.go)| go| Easy|
+1832 | [Check If the Sentence Is Pangram](1832.Check-if-the-sentence-Is-pangram/README.md) | map, rune, bool | [Check-if-the-sentence-Is-pangram](1832.Check-if-the-sentence-Is-pangram/Check-if-the-sentence-Is-pangram.go)| go| Easy|
+1837 | [Sum of Digits in Base K](1837.Sum-of-digits-in-base-K/README.md) | /=, +=, % | [Sum-of-digits-in-base-K](1837.Sum-of-digits-in-base-K/Sum-of-digits-in-base-K.go)| go| Easy|
+1844 | [Replace All Digits with Characters](1844.Replace-all-digits-with-characters/README.md) | []byte(), string() | [Replace-all-digits-with-characters](1844.Replace-all-digits-with-characters/Replace-all-digits-with-characters.go)| go| Easy|
+1859 | [Sorting the Sentence](1859.Sorting-the-sentence/README.md) | strings.Split(), strconv.Atoi, slice, strings.Join() | [Sorting-the-sentence](1859.Sorting-the-sentence/Sorting-the-sentence.go)| go| Easy|
 
 
