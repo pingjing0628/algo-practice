@@ -57,6 +57,21 @@ No. | Title | Category | Solution | Programming |Difficulty|
 1528 | [Shuffle String](1528.Shuffle-string/README.md) | []byte | [Shuffle-string](1528.Shuffle-string/Shuffle-string.go)| go| Easy|
 1534 | [Count Good Triplets](1534.Count-good-triplets/README.md) | three for loops, abs() | [Count-good-triplets](1534.Count-good-triplets/Count-good-triplets.go)| go| Easy|
 1572 | [Matrix Diagonal Sum](1572.Matrix-diagonal-sum/README.md) | +=, -=, / | [Matrix-diagonal-sum](1572.Matrix-diagonal-sum/Matrix-diagonal-sum.go)| go| Easy|
+1588 | [Sum of all Odd Length Subarrays](1588.Sum-of-all-odd-length-subarrays/README.md) | three for loops | [Sum-of-all-odd-length-subarrays](1588.Sum-of-all-odd-length-subarrays/Sum-of-all-odd-length-subarrays.go)| go| Easy|
+1603 | [Design Parking System](1603.Design-parking-system/README.md) | type struct, this. | [Design-parking-system](1603.Design-parking-system/Design-parking-system.go)| go| Easy|
+1614 | [Maximum Nesting Depth of the Parentheses](1614.Maximum-nesting-depth-of-the-parentheses/README.md) | rune | [Maximum-nesting-depth-of-the-parentheses](1614.Maximum-nesting-depth-of-the-parentheses/Maximum-nesting-depth-of-the-parentheses.go)| go| Easy|
+1636 | [Sort Array by Increasing Frequency](1636.Sort-array-by-increasing-frequency/README.md) | sort.Slice(), inner function | [Sort-array-by-increasing-frequency](1636.Sort-array-by-increasing-frequency/Sort-array-by-increasing-frequency.go)| go| Easy|
+1656 | [Design an Ordered Stream](1656.Design-an-ordered-stream/README.md) | type struct, this. | [Design-an-ordered-stream](1656.Design-an-ordered-stream/Design-an-ordered-stream.go)| go| Easy|
+1662 | [Check If Two String Arrays are Equivalent](1662.Check-if-two-string-arrays-are-equivalent/README.md) | strings.Join() | [Check-if-two-string-arrays-are-equivalent](1662.Check-if-two-string-arrays-are-equivalent/Check-if-two-string-arrays-are-equivalent.go)| go| Easy|
+1672 | [Richest Customer Wealth](1672.Richest-customer-wealth/README.md) | two for loops | [Richest-customer-wealth](1672.Richest-customer-wealth/Richest-customer-wealth.go)| go| Easy|
+1678 | [Goal Parser Interpretation](1678.Goal-parser-interpretation/README.md) | bytes.Buffer, []rune, map, WriteString, buffer.String | [Goal-parser-interpretation](1678.Goal-parser-interpretation/Goal-parser-interpretation.go)| go| Easy|
+1684 | [Count the Number of Consistent Strings](1684.Count-the-number-of-consistent-strings/README.md) | two for loops | [Count-the-number-of-consistent-strings](1684.Count-the-number-of-consistent-strings/Count-the-number-of-consistent-strings.go)| go| Easy|
+1688 | [Count of Matches in Tournament](1688.Count-of-matches-in-tournament/README.md) | += | [Count-of-matches-in-tournament](1688.Count-of-matches-in-tournament/Count-of-matches-in-tournament.go)| go| Easy|
+1704 | [Determine If String Halves are Alike](1704.Determine-if-string-halves-are-alike/README.md) | map.byte.bool | [Determine-if-string-halves-are-alike](1704.Determine-if-string-halves-are-alike/Determine-if-string-halves-are-alike.go)| go| Easy|
+1720 | [Decode XORed Array](1720.Decode-XORed-array/README.md) | ^, append | [Decode-XORed-array](1720.Decode-XORed-array/Decode-XORed-array.go)| go| Easy|
+1725 | [Number of Rectangles that can Form the Largest Square](1725.Number-of-rectangles-that-can-form-the-largest-square/README.md) | max, append | [Number-of-rectangles-that-can-form-the-largest-square](1725.Number-of-rectangles-that-can-form-the-largest-square/Number-of-rectangles-that-can-form-the-largest-square.go)| go| Easy|
+1732 | [Find the Highest Altitude](1732.Find-the-highest-altitude/README.md) | max, compare | [Find-the-highest-altitude](1732.Find-the-highest-altitude/Find-the-highest-altitude.go)| go| Easy|
+1748 | [Sum of Unique Elements](1748.Sum-of-unique-elements/README.md) | +=, temp | [Sum-of-unique-elements](1748.Sum-of-unique-elements/Sum-of-unique-elements.go)| go| Easy|
 1768 | [Merge Strings Alternately](1768.Merge-strings-alternately/README.md) | append, []byte... | [Merge-strings-alternately](1768.Merge-strings-alternately/Merge-strings-alternately.go)| go| Easy|
 
 
