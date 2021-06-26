@@ -73,6 +73,7 @@ No. | Title | Category | Solution | Programming |Difficulty|
 1720 | [Decode XORed Array](1720.Decode-XORed-array/README.md) | ^, append | [Decode-XORed-array](1720.Decode-XORed-array/Decode-XORed-array.go)| go| Easy|
 1725 | [Number of Rectangles that can Form the Largest Square](1725.Number-of-rectangles-that-can-form-the-largest-square/README.md) | max, append | [Number-of-rectangles-that-can-form-the-largest-square](1725.Number-of-rectangles-that-can-form-the-largest-square/Number-of-rectangles-that-can-form-the-largest-square.go)| go| Easy|
 1732 | [Find the Highest Altitude](1732.Find-the-highest-altitude/README.md) | max, compare | [Find-the-highest-altitude](1732.Find-the-highest-altitude/Find-the-highest-altitude.go)| go| Easy|
+1742 | [Maximum Number of Balls in a Box](1742.Maximum-number-of-balls-in-a-box/README.md)| max, map, /=, %| [Maximum-number-of-balls-in-a-box](1742.Maximum-number-of-balls-in-a-box/Maximum-number-of-balls-in-a-box.go)| go | Easy |
 1748 | [Sum of Unique Elements](1748.Sum-of-unique-elements/README.md) | +=, temp | [Sum-of-unique-elements](1748.Sum-of-unique-elements/Sum-of-unique-elements.go)| go| Easy|
 1768 | [Merge Strings Alternately](1768.Merge-strings-alternately/README.md) | append, []byte... | [Merge-strings-alternately](1768.Merge-strings-alternately/Merge-strings-alternately.go)| go| Easy|
 1773 | [Count Items Matching a Rule](1773.Count-items-matching-a-rule/README.md) | map | [Count-items-matching-a-rule](1773.Count-items-matching-a-rule/Count-items-matching-a-rule.go)| go| Easy|
