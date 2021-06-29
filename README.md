@@ -26,6 +26,7 @@ No. | Title | Category | Solution | Programming |Difficulty|
 0897 | [Increasing Order Search Tree](0897.Increasing-order-search-tree/README.md) | binary search tree, recursive | [Increasing-order-search-tree](0897.Increasing-order-search-tree/Increasing-order-search-tree.go)| go | Easy |
 0905 | [Sort Array by Parity](0905.Sort-array-by-parity/README.md) | %, append | [Sort-array-by-parity](0905.Sort-array-by-parity/Sort-array-by-parity.go)| go | Easy |
 0912 | [Sort an Array](0912.Sort-an-array/README.md) | quickSort | [Sort-an-array](0912.Sort-an-array/Sort-an-array.go)| go | Easy |
+0933 | [Number of Recent Calls](0933.Number-of-recent-calls/README.md) | OOP, this | [Number-of-recent-calls](0933.Number-of-recent-calls/Number-of-recent-calls.go) | go| Easy |
 0938 | [Range Sum of BST](0938.Range-sum-of-BST/README.md) | binary search tree, recursive | [Range-sum-of-BST](0938.Range-sum-of-BST/Range-sum-of-BST.go)| go | Easy |
 0942 | [DI String Match](0942.DI-string-match/README.md) | di string | [DI-string-match](0942.DI-string-match/DI-string-match.go) | go | Easy|
 0961 | [N Repeated Element in Size 2N Array](0961.N-Repeated-element-in-size-2N-array/README.md) | map | [N-Repeated-element-in-size-2N-array](0961.N-Repeated-element-in-size-2N-array/N-Repeated-element-in-size-2N-array.go)| go | Easy |
