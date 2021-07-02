@@ -93,5 +93,5 @@ No. | Title | Category | Solution | Programming |Difficulty|
 1837 | [Sum of Digits in Base K](1837.Sum-of-digits-in-base-K/README.md) | /=, +=, % | [Sum-of-digits-in-base-K](1837.Sum-of-digits-in-base-K/Sum-of-digits-in-base-K.go)| go| Easy|
 1844 | [Replace All Digits with Characters](1844.Replace-all-digits-with-characters/README.md) | []byte(), string() | [Replace-all-digits-with-characters](1844.Replace-all-digits-with-characters/Replace-all-digits-with-characters.go)| go| Easy|
 1859 | [Sorting the Sentence](1859.Sorting-the-sentence/README.md) | strings.Split(), strconv.Atoi, slice, strings.Join() | [Sorting-the-sentence](1859.Sorting-the-sentence/Sorting-the-sentence.go)| go| Easy|
-
+1880 | [Check if Word Equals Summation of Two Words](1880.Check-if-word-equals-summation-of-two-words/README.md) | int string transfer | [Check-if-word-equals-summation-of-two-words](1880.Check-if-word-equals-summation-of-two-words/Check-if-word-equals-summation-of-two-words.go)| go | Easy |
 
