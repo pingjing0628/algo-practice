@@ -9,6 +9,7 @@ No. | Title | Category | Solution | Programming |Difficulty|
 0136 | [Single Number](0136.Single-number/README.md) | map, ^ | [Single-number](0136.Single-number/Single-number.go)| go | Easy |
 0147 | [Insertion Sort List](0147.Insertion-sort-list/README.md) | linked list | [Insertion-sort-list](0147.Insertion-sort-list/Insertion-sort-list.go)| go | Easy |
 0257 | [Binary Tree Paths](0257.Binary-tree-paths/README.md) | binary tree | [Binary-tree-paths](0257.Binary-tree-paths/Binary-tree-paths.go)| go | Easy |
+0338 | [Counting Bits](0338.Counting-bits/README.md) | >>, & | [Counting-bits](0338.Counting-bits/Counting-bits.go) | go | Easy | 
 0344 | [Reverse String](0344.Reverse-string/README.md) | []byte | [Reverse-string](0344.Reverse-string/Reverse-string.go)| go | Easy |
 0461 | [Hamming Distance](0461.Hamming-distance/README.md) | ^, &, >>= , /=, % | [Hamming-distance](0461.Hamming-distance/Hamming-distance.go) | go | Easy |
 0509 | [Fibonacci Number](0509.Fibonacci-number/README.md) | fibonacci | [Fibonacci-number](0509.Fibonacci-number/Fibonacci-number.go)| go | Easy |
