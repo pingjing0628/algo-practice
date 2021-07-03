@@ -24,6 +24,7 @@ No. | Title | Category | Solution | Programming |Difficulty|
 0804 | [Unique Morse Code Words](0804.Unique-morse-code-words/README.md) | map | [Unique-morse-code-words](0804.Unique-morse-code-words/Unique-morse-code-words.go)| go | Easy |
 0811 | [Subdomain Visit Count](0811.Subdomain-visit-count/README.md) | map, strconv.Atoi, strconv.Itoa, strings.Split, string.Join, append | [Subdomain-visit-count](0811.Subdomain-visit-count/Subdomain-visit-count.go) | go | Easy |
 0832 | [Flipping an Image](0832.Flipping-an-image/README.md) | [][]int, append | [Unique-morse-code-words](0832.Flipping-an-image/Flipping-an-image.go)| go | Easy |
+0852 | [Peak Index in a Mountain Array](0852.Peak-index-in-a-mountain-array/README.md) | for, compare | [Peak-index-in-a-mountain-array](0852.Peak-index-in-a-mountain-array/Peak-index-in-a-mountain-array.go) | go | Easy |
 0897 | [Increasing Order Search Tree](0897.Increasing-order-search-tree/README.md) | binary search tree, recursive | [Increasing-order-search-tree](0897.Increasing-order-search-tree/Increasing-order-search-tree.go)| go | Easy |
 0905 | [Sort Array by Parity](0905.Sort-array-by-parity/README.md) | %, append | [Sort-array-by-parity](0905.Sort-array-by-parity/Sort-array-by-parity.go)| go | Easy |
 0912 | [Sort an Array](0912.Sort-an-array/README.md) | quickSort | [Sort-an-array](0912.Sort-an-array/Sort-an-array.go)| go | Easy |
